@@ -1,0 +1,5 @@
+{
+  "name": "Lucky Ticket Solver",
+  "description": "An application that takes a 6-digit number and tries to form an arithmetic expression that equals 100 by splitting the digits and inserting operators. It's a fun mathematical puzzle solver.",
+  "requestFramePermissions": []
+}
